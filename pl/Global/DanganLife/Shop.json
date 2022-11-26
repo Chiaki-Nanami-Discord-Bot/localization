@@ -1,0 +1,12 @@
+{
+    "Shop_CurrencyOnly": "%currency_emoji% %currency_name% can be exchanged for the following items.",
+    "Shop_PurchaseLimit_Daily": "Daily Limit",
+    "Shop_PurchaseLimit_Weekly": "Weekly Limit",
+    "Shop_PurchaseLimit_Permanent": "Permanent Limit",
+    "Shop_Tip": "Shop Information",
+    "Shop_Tip_Intro": "Shop Intro:",
+    "Shop_Tip_OtainingCurrency": "How to obtain %currency_name%:",
+    "Shop_Name_UltraDespair": "Ultra Despair Shop",
+    "Shop_Buy": "Buy",
+    "Shop_Buy_Quantity": "Qty."
+}

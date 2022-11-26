@@ -1,0 +1,17 @@
+{
+    "0": { "Text": "What ship do you want me to rate?", "ChoiceLabels": { "0": "Ship" } },
+    "1": { "Text": "Who do you want to ship %first_person% with?", "ChoiceLabels": { "0": "Ship", "1": "Oops, wrong person." } },
+    "2": { "Text": "It's alright. What ship do you want me to rate?", "ChoiceLabels": { "0": "Ship" } },
+    "3": { "Text": "The <CLT=cltSTRONG>ultimate ship<CLT=cltNORMAL>!" },
+    "4": { "Text": "Of course!! Always <CLT=cltSTRONG>love yourself<CLT=cltNORMAL>!" },
+    "5": { "Text": "Ummm... It's a secret. *blushes*" },
+    "6": { "Text": "This gives me some despair vibes." },
+    "7": { "Text": "....................What the f-" },
+    "8": { "Text": "No, that's wrong!" },
+    "9": { "Text": "It's alright... Just kidding, no." },
+    "10": { "Text": "This ship is fine." },
+    "11": { "Text": "Yep! they both definitely look great together." },
+    "12": { "Text": "Yes!! I ship %first_person% and %second_person%!" },
+    "13": { "Text": "YES!!! The ship between %first_person% and %second_person% is <CLT=cltSTRONG>PERFECT<CLT=cltNORMAL>!!!" },
+    "14": { "Text": "%you% left me hanging." }
+}

@@ -1,0 +1,14 @@
+{
+    "LobbyAction_JoinOrLeave": "Join / Leave",
+    "LobbyAction_Start": "Start",
+    "LobbyMessage_LobbyClosed": "The lobby has been automatically closed due to inactivity.",
+    "LobbyMessage_LobbyDisbanded": "The host has disbanded the lobby.",
+    "LobbyState_NeedPlayers": "Need %players_needed% more %noun_player% to be able to start %game_name%.",
+    "LobbyState_Ready": "Waiting for the host to start %game_name%.",
+    "LobbyWarning_CloseLobby": "The lobby will automatically close in %seconds_left% %noun_second%.",
+    "Noun_Player": "player",
+    "Noun_Players": "players",
+    "Noun_Second": "second",
+    "Noun_Seconds": "seconds",
+    "Success_GameStarted": "The host has started the game."
+}

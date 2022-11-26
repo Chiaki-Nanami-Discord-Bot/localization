@@ -1,0 +1,13 @@
+{
+    "Title": "Pickpocket",
+    "Placeholder_SelectTarget": "Select a target to pickpocket by their number.",
+    "Confirm_PickpocketTarget": "Are you sure you want to pickpocket %mentioned_user%?",
+    "Confirm_PickpocketTargetYes": "Yes",
+    "Confirm_PickpocketTargetNo": "No",
+    "Indicator_PickpocketRate": "Pickpocket Rate:",
+    "Indicator_Monocoins": "Stealable Monocoins:",
+    "Indicator_Player": "Player:",
+    "Tip_StealingPenalty": "If you fail to pickpocket, you will have to pay the number of stealable monocoins to the target as penalty.",
+    "Message_NoPickpocketPerk": "You can't pickpocket without the Pickpocket perk.",
+    "Message_SafeServer": "You can't pickpocket in this server."
+}

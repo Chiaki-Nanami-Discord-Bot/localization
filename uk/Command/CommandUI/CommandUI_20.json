@@ -1,0 +1,8 @@
+{
+    "CommandArgument_Example0": "Chiaki Nanami",
+    "CommandArgument_Example1": "Kaede Akamatsu",
+    "CommandArgument_Example2": "The world",
+    "Example_Indicator": "Example:",
+    "Hugging_Description": "%username% hugs %something%",
+    "MentionUser_Alert": "Could you mention who you want to hug?"
+}

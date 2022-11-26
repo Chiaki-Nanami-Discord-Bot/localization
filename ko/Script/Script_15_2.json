@@ -1,0 +1,5 @@
+{
+    "0": { "Text": "Do you want to guess my number too, %you%?", "ChoiceLabels": { "0": "Yes", "1": "No" } },
+    "1": { "Text": "Okay." },
+    "2": { "Text": "Is that so? Type <CLT=cltSTRONG>..%command_name% <CLT=cltNORMAL>whenever you're ready." }
+}

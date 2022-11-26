@@ -1,0 +1,6 @@
+{
+    "0": { "Text": "Want to play hide and seek with me? I'll hide and you'll have to enter my coordinates as quickly as you can.", "ChoiceLabels": { "0": "Play" } },
+    "1": { "Text": "Hmmm... Where should I hide?" },
+    "2": { "Text": "Really? I'll get to hiding." },
+    "3": { "Text": "Don't look or I'll poke your eyes out." }
+}

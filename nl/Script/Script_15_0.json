@@ -1,0 +1,23 @@
+{
+    "0": { "Text": "Wanna play a game? You'll have to guess my number with 5 tries.", "ChoiceLabels": { "0": "Yes" } },
+    "1": { "Text": "I've chosen a number between 1 and 20. Start guessing.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } },
+    "2": { "Text": "Why do you have to give up now, %you%?" },
+    "3": { "Text": "Alright, we'll stop there." },
+    "4": { "Text": "...Ahhh~" },
+    "5": { "Text": "My number was %number%." },
+    "6": { "Text": "That isn't a number, I think." },
+    "7": { "Text": "Give me a number this time.." },
+    "8": { "Text": "Awwww, you got it" },
+    "9": { "Text": "Yep. My number is %number%." },
+    "10": { "Text": "Good game, %you%. You got it right!" },
+    "11": { "Text": "Nice try, %you%. My number was %number%." },
+    "12": { "Text": "Looks like I'm the winner. My number was %number%" },
+    "13": { "Text": "That was close. My number was %number%" },
+    "14": { "Text": "Wanna play again?", "ChoiceLabels": { "0": "Yes", "1": "No" } },
+    "15": { "Text": "We should play again next time, I think." },
+    "16": { "Text": "...I think %you% rage quit." },
+    "17": { "Text": "You suck." },
+    "18": { "Text": "%comment% Higher!" },
+    "19": { "Text": "%comment% Lower!" },
+    "20": { "Text": "You already guessed that number. You can have another go." }
+}

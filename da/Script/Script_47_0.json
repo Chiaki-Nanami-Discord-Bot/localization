@@ -1,0 +1,19 @@
+{
+    "0": { "Text": "You want to play hangman, right? You'll have to find out what word I'm thinking of.", "ChoiceLabels": { "0": "Play" } },
+    "1": { "Text": "%you%, are you there?" },
+    "2": { "Text": "Hmmm... Let me think of one." },
+    "3": { "Text": "...I've thought of a word. Start guessing.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } },
+    "4": { "Text": "Nice try, %you%." },
+    "5": { "Text": "You ran out of chances. The word was <CLT=cltSTRONG>%word%<CLT=cltNORMAL>, I think." },
+    "6": { "Text": "I win!" },
+    "7": { "Text": "Yep. Good game, %you%" },
+    "8": { "Text": "Nice, you completed the word." },
+    "9": { "Text": "I should pick a harder word next time." },
+    "10": { "Text": "Do you want to play again?", "ChoiceLabels": { "0": "Yes", "1": "No" } },
+    "11": { "Text": "Okay." },
+    "12": { "Text": "Alright, %you%. The word I was thinking of was %word%, I think." },
+    "13": { "Text": "That isn't a letter, you know. Give me a letter this time.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } },
+    "14": { "Text": "Yep.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } },
+    "15": { "Text": "Nope.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } },
+    "16": { "Text": "You've already guessed that letter. You can have another go.", "ChoiceLabels": { "0": "Guess", "1": "Surrender" } }
+}

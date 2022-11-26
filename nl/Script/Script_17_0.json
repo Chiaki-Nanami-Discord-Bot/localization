@@ -1,0 +1,11 @@
+{
+    "0": { "Text": "Should I call you something else instead of %current_name%?", "ChoiceLabels": { "0": "Set my nickname", "1": "Remove my nickname" } },
+    "1": { "Text": "What's your nickname gonna be?", "ChoiceLabels": { "0": "Enter nickname", "1": "Nevermind" } },
+    "2": { "Text": "Okay, I'll keep calling you %current_name%." },
+    "3": { "Text": "That nickname is %new_nickname_length% characters long." },
+    "4": { "Text": "Can you give me a nickname that's 18 or fewer?", "ChoiceLabels": { "0": "Enter nickname", "1": "Nevermind" } },
+    "5": { "Text": "I think %you% wants me to call them nothing at all." },
+    "6": { "Text": "%new_nickname%?.. %new_nickname%. Okay, %new_nickname%. I'll call you that from now on." },
+    "7": { "Text": "Got it, %new_nickname%. I'll try my best to remember your nickname." },
+    "8": { "Text": "Nice to meet you, %new_nickname%." }
+}
