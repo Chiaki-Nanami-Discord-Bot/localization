@@ -1,6 +1,0 @@
-{
-    "0": { "Text": "Hey hey, %you%. You wanna play hangman?", "ChoiceLabels": { "0": "Yes", "1": "No" } },
-    "1": { "Text": "Okay." },
-    "2": { "Text": "Really? Enter <CLT=cltSTRONG>..%command_name% <CLT=cltNORMAL>to play with me." }
-
-}

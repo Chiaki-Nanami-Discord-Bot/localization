@@ -1,0 +1,22 @@
+{
+   "Title": "Mail",
+   "Mail_From": "From %sender_name%",
+   "Indicator_Subject": "Subject:",
+   "Indicator_Content": "Content:",
+   "Indicator_ClaimableItems": "Claimable Items:",
+   "Action_Claim": "Claim",
+   "Action_Delete": "Delete",
+   "Alert_MailNotFoundSuggestion": "Your mailbox has been refreshed.",
+   "Alert_MailNotFoundClaim": "The items you are trying to claim from this mail appear to be no longer available.",
+   "Alert_MailNotFoundDelete": "The mail you are trying to delete appears to have been removed and is no longer available.",
+   "Placeholder_NoMail": "This mailbox is empty.",
+   "Placeholder_SelectMail": "Select a mail to read.",
+   "MailView_Received": "Received",
+   "MailView_Sent": "Sent",
+   "Alert_AlreadyDeleted": "The mail appears to have already been deleted.",
+   "Alert_AlreadyClaimed": "The items from this mail appear to have already been claimed.",
+   "Alert_ClaimedItemsCannotFit": "It seems you have reached your inventory limit. Please consider making some room before trying to claim more items.",
+   "Alert_ClaimedMail": "The items from the mail have been successfully claimed.",
+   "Alert_DeletedMail": "The mail has been successfully deleted.",
+   "Heading_ClaimableItems": "Claimable Items"
+}

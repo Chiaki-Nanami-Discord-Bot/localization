@@ -1,0 +1,8 @@
+{
+   "Title_Inventory": "Inventory",
+   "Placeholder_ItemCategory": "Select an item category to view.",
+   "Alert_InspectNoItem": "The item you are trying to inspect no longer exists.",
+   "Alert_InspectMovedItem": "The item you are trying to inspect has moved.",
+   "Alert_UseNoItem": "The item you are trying to use no longer exists.",
+   "Message_InventoryRefreshed": "Your inventory has been refreshed."
+}

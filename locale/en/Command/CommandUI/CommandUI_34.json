@@ -1,0 +1,8 @@
+{
+   "MentionUser_Request": "Could you mention who you want to pat?",
+   "Example_Indicator": "Example:",
+   "CommandArgument_Example0": "Chiaki Nanami",
+   "CommandArgument_Example1": "the ants",
+   "CommandArgument_Example2": "MEWO",
+   "Patting_Description": "%username% is patting %something%."
+}

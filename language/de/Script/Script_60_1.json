@@ -1,5 +1,0 @@
-{
-    "0": { "Text": "Hey hey, %you%.", "ChoiceLabels": { "0": "Hello" } },
-    "1": { "Text": "You need to be a <CLT=cltSTRONG>server administrator<CLT=cltSTRONG> to set a goodbye channel, I think.", "ChoiceLabels": { "0": "Ah, I see"} },
-    "2": { "Text": "Well, you could ask the server owner for admin permission if you want..." }
-}

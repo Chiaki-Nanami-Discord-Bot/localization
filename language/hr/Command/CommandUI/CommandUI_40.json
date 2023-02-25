@@ -1,9 +1,0 @@
-{
-    "CommandArgument_Example0": "Saitama",
-    "CommandArgument_Example1": "All Might",
-    "CommandArgument_Example2": "themselves",
-    "Example_Indicator": "Example:",
-    "MentionUser_Request": "Could you mention who you want to punch?",
-    "Punching_Description": "%username% punches %something%.",
-    "Punching_Failed": "%username% misses %something% with their punch and got punched instead."
-}

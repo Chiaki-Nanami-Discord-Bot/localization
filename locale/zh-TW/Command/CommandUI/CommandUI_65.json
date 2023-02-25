@@ -1,0 +1,22 @@
+{
+   "Title": "",
+   "Mail_From": "",
+   "Indicator_Subject": "",
+   "Indicator_Content": "",
+   "Indicator_ClaimableItems": "",
+   "Action_Claim": "",
+   "Action_Delete": "",
+   "Alert_MailNotFoundSuggestion": "",
+   "Alert_MailNotFoundClaim": "",
+   "Alert_MailNotFoundDelete": "",
+   "Placeholder_NoMail": "",
+   "Placeholder_SelectMail": "",
+   "MailView_Received": "",
+   "MailView_Sent": "",
+   "Alert_AlreadyDeleted": "",
+   "Alert_AlreadyClaimed": "",
+   "Alert_ClaimedItemsCannotFit": "",
+   "Alert_ClaimedMail": "",
+   "Alert_DeletedMail": "",
+   "Heading_ClaimableItems": ""
+}

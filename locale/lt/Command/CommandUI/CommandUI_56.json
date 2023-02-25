@@ -1,0 +1,10 @@
+{
+   "GameMessage_ShooterDied": "",
+   "GameMessage_ShooterSurvived": "",
+   "GameState_End": "",
+   "GameState_LoadingGun": "",
+   "GameState_WaitShooter": "",
+   "Indicator_PlayerOrder": "",
+   "TimeOut_Shooting": "",
+   "Title": ""
+}

@@ -1,0 +1,10 @@
+{
+   "GameMessage_ShooterDied": "The %shooter_name% pulled the trigger. BANG!",
+   "GameMessage_ShooterSurvived": "The %shooter_name% pulled the trigger and nothing happened.",
+   "GameState_End": "%winner_name% is the winner!",
+   "GameState_LoadingGun": "Loading the gun...",
+   "GameState_WaitShooter": "Waiting for %shooter_name% to shoot.",
+   "Indicator_PlayerOrder": "Player Turn Order:",
+   "TimeOut_Shooting": "%shooter_name% has been eliminated from the game due to inactivity.",
+   "Title": "Russian roulette"
+}

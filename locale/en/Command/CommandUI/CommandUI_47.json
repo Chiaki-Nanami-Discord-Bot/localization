@@ -1,0 +1,7 @@
+{
+   "Title": "Hangman",
+   "Indicator_LettersGuessed": "Letters Guessed:",
+   "Indicator_Word": "The word was:",
+   "GameResult_Win": "YOU WIN",
+   "GameResult_Loss": "YOU LOSE"
+}

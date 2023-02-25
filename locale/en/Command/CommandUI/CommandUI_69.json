@@ -1,0 +1,9 @@
+{
+   "Action_PlayJapanese": "Play Japanese",
+   "Action_PlayEnglish": "Play English",
+   "Failed_UnconnectedVoiceChannel": "Please join a voice channel first to hear my voice.",
+   "Indicator_Japanese": "Japanese",
+   "Indicator_English": "English",
+   "Placeholder_SelectVoice": "Select a voice audio to play.",
+   "Title": "Chiaki Nanami Voice Audio"
+}

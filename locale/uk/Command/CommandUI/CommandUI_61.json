@@ -1,0 +1,21 @@
+{
+   "Title": "",
+   "BeginGameDialogue_0": "",
+   "BeginGameDialogue_1": "",
+   "BeginGameDialogue_2": "",
+   "WrongCoordinateDialogue_0": "",
+   "WrongCoordinateDialogue_1": "",
+   "WrongCoordinateDialogue_2": "",
+   "Action_EnterCoord": "",
+   "Action_GiveUp": "",
+   "GameMessage_TimeOutWarning": "",
+   "GiveUpDialogue_0": "",
+   "GiveUpDialogue_1": "",
+   "GiveUpDialogue_2": "",
+   "WinDialogue_0": "",
+   "WinDialogue_1": "",
+   "WinDialogue_2": "",
+   "QuickWinDialogue_0": "",
+   "GameResult_Win": "",
+   "GameResult_Loss": ""
+}

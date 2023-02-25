@@ -1,8 +1,0 @@
-{
-    "1": { "Name": "Lucky Clover", "Description": "Increases your luck by 10%." },
-    "2": { "Name": "Lady Luck", "Description": "Increases your luck by 10%." },
-    "3": { "Name": "Midas touch", "Description": "Increases Monocoins earned from work by 100%." },
-    "4": { "Name": "Cheater", "Description": "So the developer can cheat." },
-    "5": { "Name": "Allure", "Description": "Reduces Monocoins prices by 10%" },
-    "6": { "Name": "Bargaining", "Description": "Reduces Monocoins prices by 10%" }
-}

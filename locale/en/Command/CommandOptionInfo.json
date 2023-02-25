@@ -1,0 +1,46 @@
+{
+   "1": {
+      "name": "content",
+      "description": "What should I say?"
+   },
+   "2": {
+      "name": "object",
+      "description": "Who or what do you want to hug?"
+   },
+   "3": {
+      "name": "object",
+      "description": "Who or what do you want to pat?"
+   },
+   "4": {
+      "name": "object",
+      "description": "Who or what do you want to punch?"
+   },
+   "5": {
+      "name": "object",
+      "description": "Who or what do you want to kick?"
+   },
+   "6": {
+      "name": "text",
+      "description": "What text do you want to owoify?"
+   },
+   "7": {
+      "name": "id",
+      "description": "The id of the item to give."
+   },
+   "8": {
+      "name": "quantity",
+      "description": "The quantity of the item to give."
+   },
+   "9": {
+      "name": "object",
+      "description": "Who or what do you want to kiss?"
+   },
+   "10": {
+      "name": "user_id",
+      "description": "The id of the user to update."
+   },
+   "11": {
+      "name": "cooldown",
+      "description": "The cooldown as a timestamp to set."
+   }
+}

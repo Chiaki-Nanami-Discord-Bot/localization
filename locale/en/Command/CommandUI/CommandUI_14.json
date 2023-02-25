@@ -1,0 +1,14 @@
+{
+   "CommandName_Title": "Rock Paper Scissors",
+   "PreparingItem": "prepares %item%",
+   "Thinking": "is thinking...",
+   "UseItem": "uses %item%",
+   "ChiakiNanami": "Chiaki Nanami",
+   "Win_GameResult": "YOU WIN!",
+   "Draw_GameResult": "DRAW!",
+   "Loss_GameResult": "YOU LOSE!",
+   "Item_Rock": "Rock",
+   "Item_Paper": "Paper",
+   "Item_Scissors": "Scissors",
+   "VS": "VS"
+}

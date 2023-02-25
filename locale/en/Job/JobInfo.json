@@ -1,0 +1,12 @@
+{
+   "1": {
+      "name": "Programming",
+      "description": "You sit at your desk, staring at the code lines on your screen.",
+      "objective": "Type the code shown in the image."
+   },
+   "2": {
+      "name": "Idol",
+      "description": "You step out onto the stage, your heart racing as you begin your performance.",
+      "objective": "Press the arrows in the correct order."
+   }
+}

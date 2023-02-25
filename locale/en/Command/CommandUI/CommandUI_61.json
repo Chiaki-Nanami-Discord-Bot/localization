@@ -1,0 +1,21 @@
+{
+   "Title": "Find Me",
+   "BeginGameDialogue_0": "Can you find me, %you%?",
+   "BeginGameDialogue_1": "Open your eyes.",
+   "BeginGameDialogue_2": "Start looking for me, %you%.",
+   "WrongCoordinateDialogue_0": "Nope, I'm not there.",
+   "WrongCoordinateDialogue_1": "Are you struggling to find me?",
+   "WrongCoordinateDialogue_2": "......",
+   "Action_EnterCoord": "Enter Coordinate",
+   "Action_GiveUp": "Give up",
+   "GameMessage_TimeOutWarning": "The game will automatically end in %seconds_left% %noun_second%.",
+   "GiveUpDialogue_0": "Hey hey, %you%!!",
+   "GiveUpDialogue_1": "I am right here.",
+   "GiveUpDialogue_2": "Here I am.",
+   "WinDialogue_0": "Awww, you got me.",
+   "WinDialogue_1": "I guess you found me.",
+   "WinDialogue_2": "Hello there, %you%.",
+   "QuickWinDialogue_0": "Ummm... That was quick, %you%.",
+   "GameResult_Win": "YOU WIN!",
+   "GameResult_Loss": "YOU LOSE!"
+}

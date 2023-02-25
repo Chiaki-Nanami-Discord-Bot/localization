@@ -29,4 +29,8 @@
 - Chinese, Taiwan (zh-TW)
 
 # Translating
-If you want to help, check out this [guide](https://github.com/Chiaki-Nanami-Discord-Bot/localization/wiki).
+If you want to help, please check out this [guide](https://github.com/Chiaki-Nanami-Discord-Bot/localization/wiki).
+
+**Note**: 
+The guide is not up to date with the files above but it may help you give a better sense of how one could translate. 
+A new guide will be published soon 

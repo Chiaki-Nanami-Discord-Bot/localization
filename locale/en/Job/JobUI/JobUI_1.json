@@ -1,0 +1,6 @@
+{
+   "laptop": "Laptop",
+   "success_correct_code": "You enter a line of code that fixes a long-standing bug in the system. The team cheers in excitement as the program runs without error.",
+   "fail_incorrect_code": "You mistakenly enter a typo in a line of code. The program fails to compile, causing frustration among the team members.",
+   "abandoned_afk": "You were too focused on browsing social media to enter the code line."
+}

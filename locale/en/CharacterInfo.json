@@ -1,0 +1,254 @@
+{
+   "0": {
+      "name": "Shuichi Saihara"
+   },
+   "1": {
+      "name": "Kaito Momota"
+   },
+   "2": {
+      "name": "Ryoma Hoshi"
+   },
+   "3": {
+      "name": "Rantaro Amami"
+   },
+   "4": {
+      "name": "Gonta Gokuhara"
+   },
+   "5": {
+      "name": "Kokichi Oma"
+   },
+   "6": {
+      "name": "Korekiyo Shinguji"
+   },
+   "7": {
+      "name": "K1-B0"
+   },
+   "8": {
+      "name": "Kirumi Tojo"
+   },
+   "9": {
+      "name": "Himiko Yumeno"
+   },
+   "10": {
+      "name": "Maki Harukawa"
+   },
+   "11": {
+      "name": "Tenko Chabashira"
+   },
+   "12": {
+      "name": "Tsumugi Shirogane"
+   },
+   "13": {
+      "name": "Angie Yonaga"
+   },
+   "14": {
+      "name": "Miu Iruma"
+   },
+   "15": {
+      "name": "Kaede Akamatsu"
+   },
+   "20": {
+      "name": "Monokuma"
+   },
+   "21": {
+      "name": "Monotaro"
+   },
+   "22": {
+      "name": "Monosuke"
+   },
+   "23": {
+      "name": "Monophanie"
+   },
+   "24": {
+      "name": "Monodam"
+   },
+   "25": {
+      "name": "Monokid"
+   },
+   "100": {
+      "name": "Makoto Naegi"
+   },
+   "101": {
+      "name": "Kiyotaka Ishimaru"
+   },
+   "102": {
+      "name": "Byakuya Togami"
+   },
+   "103": {
+      "name": "Mondo Owada"
+   },
+   "104": {
+      "name": "Leon Kuwata"
+   },
+   "105": {
+      "name": "Hifumi Yamada"
+   },
+   "106": {
+      "name": "Yasuhiro Hagakure"
+   },
+   "107": {
+      "name": "Chihiro Fujisaki"
+   },
+   "108": {
+      "name": "Sayaka Maizono"
+   },
+   "109": {
+      "name": "Kyoko Kirigiri"
+   },
+   "110": {
+      "name": "Aoi Asahina"
+   },
+   "111": {
+      "name": "Toko Fukawa"
+   },
+   "112": {
+      "name": "Genocide Jack"
+   },
+   "113": {
+      "name": "Sakura Ogami"
+   },
+   "114": {
+      "name": "Celestia Ludenberg"
+   },
+   "115": {
+      "name": "Junko Enoshima"
+   },
+   "116": {
+      "name": "Junko Enoshima"
+   },
+   "117": {
+      "name": "Mukuro Ikusaba"
+   },
+   "120": {
+      "name": "Hajime Hinata"
+   },
+   "121": {
+      "name": "Nagito Komaeda"
+   },
+   "122": {
+      "name": "Byakuya Togami"
+   },
+   "123": {
+      "name": "Gundham Tanaka"
+   },
+   "124": {
+      "name": "Kazuichi Soda"
+   },
+   "125": {
+      "name": "Teruteru Hanamura"
+   },
+   "126": {
+      "name": "Nekomaru Nidai"
+   },
+   "127": {
+      "name": "Fuyuhiko Kuzuryu"
+   },
+   "128": {
+      "name": "Akane Owari"
+   },
+   "129": {
+      "name": "Chiaki Nanami"
+   },
+   "130": {
+      "name": "Sonia Nevermind"
+   },
+   "131": {
+      "name": "Hiyoko Saionji"
+   },
+   "132": {
+      "name": "Mahiru Koizumi"
+   },
+   "133": {
+      "name": "Mikan Tsumiki"
+   },
+   "134": {
+      "name": "Ibuki Mioda"
+   },
+   "135": {
+      "name": "Peko Pekoyama"
+   },
+   "136": {
+      "name": "Izuru Kamukura"
+   },
+   "137": {
+      "name": "Monomi"
+   },
+   "138": {
+      "name": "Usami"
+   },
+   "140": {
+      "name": "Kazuo Tengan"
+   },
+   "141": {
+      "name": "Kyosuke Munakata"
+   },
+   "142": {
+      "name": "Juzo Sakakura"
+   },
+   "143": {
+      "name": "Kohichi Kizakura"
+   },
+   "144": {
+      "name": "Sohnosuke Izayoi"
+   },
+   "145": {
+      "name": "Daisaku Bandai"
+   },
+   "146": {
+      "name": "Great Gozu"
+   },
+   "147": {
+      "name": "Ryota Mitarai"
+   },
+   "148": {
+      "name": "Chisa Yukizome"
+   },
+   "149": {
+      "name": "Seiko Kimura"
+   },
+   "150": {
+      "name": "Ruruka Andoh"
+   },
+   "151": {
+      "name": "Miaya Gekkogahara"
+   },
+   "152": {
+      "name": "Makoto Naegi"
+   },
+   "153": {
+      "name": "Yasuhiro Hagakure"
+   },
+   "154": {
+      "name": "Kyoko Kirigiri"
+   },
+   "155": {
+      "name": "Aoi Asahina"
+   },
+   "160": {
+      "name": "Komaru Naegi"
+   },
+   "161": {
+      "name": "Masaru Daimon"
+   },
+   "162": {
+      "name": "Jataro Kemuri"
+   },
+   "163": {
+      "name": "Kotoko Utsugi"
+   },
+   "164": {
+      "name": "Nagisa Shingetsu"
+   },
+   "165": {
+      "name": "Monaca Towa"
+   },
+   "166": {
+      "name": "Kurokuma"
+   },
+   "167": {
+      "name": "Shirokuma"
+   },
+   "168": {
+      "name": "Hiroko Hagakure"
+   }
+}

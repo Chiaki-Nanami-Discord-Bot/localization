@@ -1,6 +1,0 @@
-{
-    "0": { "Text": "Good morning, %you%." },
-    "1": { "Text": "Hello there." },
-    "2": { "Text": "Hey hey." },
-    "3": { "Text": "<CLT=cltSYSTEM>What yes-or-no question would you like to ask Chiaki?", "ChoiceLabels": { "0": "Ask" } }
-}

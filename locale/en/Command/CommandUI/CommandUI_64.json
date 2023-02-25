@@ -1,0 +1,9 @@
+{
+   "Title": "Redeem Code",
+   "Description_EnterCode": "Enter a valid code to be sent special items in your mail.",
+   "Description_CodePerPlayer": "Once you have redeemed a code, you can't redeem it again.",
+   "Description_CodeValidation": "Codes last for a specific time and are redeemed by a certain number of players.",
+   "Failed_AlreadyRedeemedCode": "You cannot redeem this code again.",
+   "Failed_NotAvailable": "The code does not exist.",
+   "Sucess_CodeRedeemed": "You have redeembed the code successfully. Check your mail to claim your items."
+}

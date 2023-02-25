@@ -1,9 +1,0 @@
-{
-    "CommandArgument_Example0": "Chun-Li",
-    "CommandArgument_Example1": "the ball",
-    "CommandArgument_Example2": "the air",
-    "Example_Indicator": "Example:",
-    "MentionUser_Request": "Could you mention who you want to kick?",
-    "Punching_Description": "%username% punches %something%.",
-    "Punching_Failed": "%username% misses %something% with their kick and got kicked instead."
-}

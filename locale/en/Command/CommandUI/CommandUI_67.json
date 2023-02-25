@@ -1,0 +1,10 @@
+{
+   "ActionDescription_Generate": "Generate morse code from a text.",
+   "ActionDescription_Translate": "Translate morse code to a readable text.",
+   "ActionName_Generate": "Generate",
+   "ActionName_Translate": "Translate",
+   "Indicator_Input": "Input:",
+   "Indicator_Output": "Output:",
+   "Request_DoWhat": "What would you like to do?",
+   "Title": "Morse Code"
+}

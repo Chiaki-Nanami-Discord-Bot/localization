@@ -1,0 +1,15 @@
+{
+   "title": "Work",
+   "description_work_ready": "The time has come to begin our work.",
+   "description_work_not_ready_static": "Let's take a moment to rest and bring the work to a close, %username%. We shall return to our duties in precisely %work_cooldown%.",
+   "description_work_not_ready_relative": "Let's take a moment to rest and bring the work to a close, %username%. We shall return to our duties precisely %work_relative_cooldown%.",
+   "heading_talent": "Talent",
+   "description_help_work": "When you begin working in Dangan Life, you'll soon realize that it is the key to earning Monocoins, and you'll be assigned a random job. Each job presents a new challenge, and if you are successful in completing it, you'll earn Monocoins, work experience and your talent point will increase by 1. But if you fail, you'll receive no rewards. After every successful work, there's a cool-down period of 12 hours, during this time you'll have to wait before you can work again. It's important to take breaks and rest. Taking a break allows you to recharge and come back to your work with renewed energy and focus.",
+   "description_help_talent": "Talents unlock the true potential of your earning power.\n\nYour talents, as I'm sure you know, are the skills you develop in various types of work. Each time you complete a task, your talent grows by one point. Now, pay attention. For every talent point you have for a specific job, the Monocoins earned increases by 1%. Let's say you have 100 programming talent points. That means you'll earn a 100% bonus Monocoins from programming jobs.\n\nBut it's not just about one talent. The more talents you cultivate, the more Monocoins you'll earn from any job. For every 10 points you have in all kinds, you'll get paid an additional 10% bonus Monocoins. So if you have 100 points in every talent, you'll earn a 100% bonus Monocoins from any job. Even if you haven't quite reached 100 points in one of your talents yet, let's say it's 89, you'll still earn an 80% bonus Monocoins.\n\nI understand that this is not an easy task, but with hard work, dedication, and perseverance, you'll be able to unlock and develop all your talents and earn the most Monocoins. So don't be afraid to take on any challenge that comes your way.",
+   "heading_talent_formula": "Formula",
+   "description_talent_formula": "- `Lowest Talent Points` must be rounded down to the nearest multiple of 10\n\n- `Work Talent Points ` and `Weakest Talent Monocoins` must be rounded down to the nearest integer\n\nWork Talent Monocoins = Work Talent Points * 0.01 * Base Monocoins Reward\nWeakest Talent Monocoins = Lowest Talent Points * 0.01 * Base Monocoins Reward\nBonus Talent Monocoins = Work Talent Monocoins + Weakest Talent Monocoins ",
+   "heading_help": "Help",
+   "button_work": "Start",
+   "summary_worker_role": "You are working as a %talent_name%.",
+   "default_work_abandoned": "You decide to not complete your work."
+}

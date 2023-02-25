@@ -1,0 +1,8 @@
+{
+   "Example_Indicator": "Example:",
+   "CommandArgument_Example0": "Shrek",
+   "CommandArgument_Example1": "Kisses",
+   "CommandArgument_Example2": "no one",
+   "Kissing_Description": "%username% kisses %something%.",
+   "MentionUser_Alert": "Could you mention who you want to kiss?"
+}

@@ -1,0 +1,15 @@
+{
+   "CommandName_Title": "ヘルプ",
+   "CommandPrefixes_Header": "プレフィックス",
+   "Link_Header": "リンク",
+   "AboutMe_ButtonLabel": "<r>私<rt>わたし</rt></r>について",
+   "HowToUseMe_ButtonLabel": "<r>私<rt>わたし</rt></r>の<r>使<rt>つか</rt></r>い<r>方<rt>かた</rt></r>",
+   "Invitation_ButtonLabel": "<r>私<rt>わたし</rt></r>を<r>招<rt>じょう</rt>待<rt>たい</rt></r>する",
+   "PrivacyPolicy_ButtonLabel": "プライバシーポリシー",
+   "SupportServer_ButtonLabel": "<r>私<rt>わたし</rt></r>のサーバー",
+   "TermsOfService_ButtonLabel": "<r>利<rt>り</rt></r><r>用<rt>よう</rt></r><r>規<rt>き</rt></r><r>約<rt>やく</rt></r>",
+   "FrequentlyAskedQuestions_ButtonLabel": "よくある<r>質<rt>しつ</rt></r><r>問<rt>もん</rt></r>",
+   "FandomWiki_ButtonLabel": "ウィキ",
+   "SelectLanguage_Langage_MenuPlaceholder": "<r>言<rt>げん</rt></r><r>語<rt>ご</rt></r>を<r>選<rt>せん</rt></r><r>択<rt>たく</rt></r>する",
+   "SelectCommandCategory_CommandCategory_MenuPlaceholder": "コマンドカテゴリを<r>選<rt>せん</rt></r><r>択<rt>たく</rt></r>して<r>確<rt>かく</rt></r><r>認<rt>にん</rt></r>する"
+}

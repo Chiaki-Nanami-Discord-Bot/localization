@@ -1,0 +1,14 @@
+{
+   "Title": "Vote",
+   "Description_0": "Vote Chiaki Nanami to get free rewards",
+   "Description_1": "After voting, you will receive the rewards in your mail.",
+   "Description_2": "You can vote every 12 hours.",
+   "Description_3": "Voting on the weekends will give you twice the rewards.",
+   "VoteState_CanVote": "You are free to vote now by clicking the \"Vote\" button below and following the instructions.",
+   "VoteState_CannotVote0": "You already voted in the last 12 hours.",
+   "VoteState_CannotVote1": "You can vote again in %time_left%.",
+   "Action_VisitWebsite": "Vote",
+   "Action_Rewards": "See rewards",
+   "SpecialGift_Title": "Special Vote Gift",
+   "SpecialGift_Description": "Vote 14 times to get a special vote gift as a bonus."
+}

@@ -1,0 +1,354 @@
+{
+   "1": {
+      "name": "help",
+      "description": "View command categories."
+   },
+   "2": {
+      "name": "admin",
+      "description": "Commands server administrators may use."
+   },
+   "3": {
+      "name": "game",
+      "description": "Play fun games."
+   },
+   "4": {
+      "name": "chiaki",
+      "description": "Interact with Chiaki Nanami, the Ultimate Gamer!"
+   },
+   "5": {
+      "name": "roleplay",
+      "description": "Express yourself with animated images!"
+   },
+   "6": {
+      "name": "rpkg",
+      "description": "Host a Danganronpa killing game or roleplay in despair!"
+   },
+   "7": {
+      "name": "danganlife",
+      "description": "Enter the world of Dangan Life!"
+   },
+   "8": {
+      "name": "misc",
+      "description": "Use other commands."
+   },
+   "9": {
+      "name": "beta",
+      "description": "Test potential buggy commands."
+   },
+   "10": {
+      "name": "dev",
+      "description": "Use developer commands."
+   },
+   "11": {
+      "name": "ping",
+      "description": "Check how fast Chiaki responds to you."
+   },
+   "12": {
+      "name": "closet",
+      "description": "Change Chiaki's outfit."
+   },
+   "13": {
+      "name": "say",
+      "description": "I'll say what you say."
+   },
+   "14": {
+      "name": "rps",
+      "description": "Play rock paper scissors."
+   },
+   "15": {
+      "name": "mynumber",
+      "description": "Guess or think of a number."
+   },
+   "16": {
+      "name": "ship",
+      "description": "Chiaki rates your ship."
+   },
+   "17": {
+      "name": "nickname",
+      "description": "Chiaki calls you by your nickname."
+   },
+   "18": {
+      "name": "happy",
+      "description": "Sends a happy GIF."
+   },
+   "19": {
+      "name": "salute",
+      "description": "Sends a salute GIF."
+   },
+   "20": {
+      "name": "hug",
+      "description": "Sends a hugging GIF."
+   },
+   "21": {
+      "name": "character",
+      "description": "Sends a character GIF."
+   },
+   "22": {
+      "name": "go",
+      "description": "Go to a location."
+   },
+   "23": {
+      "name": "map",
+      "description": "Create a world."
+   },
+   "24": {
+      "name": "bag",
+      "description": "View your inventory."
+   },
+   "25": {
+      "name": "daily",
+      "description": "Get free monocoins everyday."
+   },
+   "26": {
+      "name": "ultra",
+      "description": "Shop at the Ultra Shop."
+   },
+   "27": {
+      "name": "ranking",
+      "description": "Shows the top ultimates."
+   },
+   "28": {
+      "name": "owo",
+      "description": "owo?"
+   },
+   "29": {
+      "name": "angry",
+      "description": "Send an angry GIF."
+   },
+   "30": {
+      "name": "sad",
+      "description": "Send a sad GIF."
+   },
+   "31": {
+      "name": "cry",
+      "description": "Send a crying GIF."
+   },
+   "32": {
+      "name": "scared",
+      "description": "Send a scared GIF."
+   },
+   "33": {
+      "name": "smug",
+      "description": "Send a smugging GIF."
+   },
+   "34": {
+      "name": "pat",
+      "description": "Send a patting GIF."
+   },
+   "35": {
+      "name": "laugh",
+      "description": "Send a laughing GIF."
+   },
+   "36": {
+      "name": "die",
+      "description": "Send a dying GIF."
+   },
+   "37": {
+      "name": "shine",
+      "description": "Send a glasses shining GIF."
+   },
+   "38": {
+      "name": "sleep",
+      "description": "Send a sleeping GIF."
+   },
+   "39": {
+      "name": "kiss",
+      "description": "Send a kissing GIF."
+   },
+   "40": {
+      "name": "punch",
+      "description": "Send a punching GIF."
+   },
+   "41": {
+      "name": "kick",
+      "description": "Send a kicking GIF."
+   },
+   "42": {
+      "name": "think",
+      "description": "Send a thinking GIF."
+   },
+   "43": {
+      "name": "breathe",
+      "description": "Send a breathing GIF."
+   },
+   "44": {
+      "name": "yawn",
+      "description": "Send a yawning GIF."
+   },
+   "45": {
+      "name": "poke",
+      "description": "Send a poking GIF."
+   },
+   "46": {
+      "name": "rate",
+      "description": "Chiaki rates a game."
+   },
+   "47": {
+      "name": "hangman",
+      "description": "Play hangman."
+   },
+   "48": {
+      "name": "hey chiaki",
+      "description": "Ask Chiaki a yes-or-no question."
+   },
+   "49": {
+      "name": "counter",
+      "description": "Send a countering GIF."
+   },
+   "50": {
+      "name": "consent",
+      "description": "Send a consent GIF."
+   },
+   "51": {
+      "name": "perjury",
+      "description": "Send a perjury GIF."
+   },
+   "52": {
+      "name": "gotit",
+      "description": "Send a understanding GIF."
+   },
+   "53": {
+      "name": "handbook",
+      "description": "See your handbook."
+   },
+   "54": {
+      "name": "achievement",
+      "description": "See your achievements."
+   },
+   "55": {
+      "name": "cards",
+      "description": "See your card collection."
+   },
+   "56": {
+      "name": "roulette",
+      "description": "Play Russian roulette."
+   },
+   "57": {
+      "name": "mafia",
+      "description": "Play mafia."
+   },
+   "58": {
+      "name": "welcome",
+      "description": "Set a welcome channel."
+   },
+   "59": {
+      "name": "embed",
+      "description": "Chiaki embeds what you say."
+   },
+   "60": {
+      "name": "goodbye",
+      "description": "Set a goodbye channel."
+   },
+   "61": {
+      "name": "findchiaki",
+      "description": "Play hide and seek with Chiaki."
+   },
+   "62": {
+      "name": "trivia",
+      "description": "Play trivia."
+   },
+   "63": {
+      "name": "pickpocket",
+      "description": "Pickpocket a target."
+   },
+   "64": {
+      "name": "redeem",
+      "description": "Redeem a code."
+   },
+   "65": {
+      "name": "mail",
+      "description": "Check your mail."
+   },
+   "66": {
+      "name": "owoify",
+      "description": "Owoify a text."
+   },
+   "67": {
+      "name": "morse",
+      "description": "Translate or generate Morse code."
+   },
+   "68": {
+      "name": "binary",
+      "description": "Translate or generate binary numbers"
+   },
+   "69": {
+      "name": "voice",
+      "description": "Play voice audio of Chiaki."
+   },
+   "70": {
+      "name": "gacha",
+      "description": "Interact with gachas."
+   },
+   "71": {
+      "name": "vote",
+      "description": "Vote Chiaki Nanami."
+   },
+   "72": {
+      "name": "casino",
+      "description": "Enter the casino."
+   },
+   "73": {
+      "name": "mystery",
+      "description": "Enter the mysterious shop."
+   },
+   "74": {
+      "name": "gear",
+      "description": "Enter the gear shop."
+   },
+   "75": {
+      "name": "cardshop",
+      "description": "Enter the card shop."
+   },
+   "76": {
+      "name": "giftshop",
+      "description": "Enter the gift shop."
+   },
+   "77": {
+      "name": "justasplanned",
+      "description": "JUST AS PLANNED!"
+   },
+   "78": {
+      "name": "fbiopenup",
+      "description": "FBI OPEN UP!"
+   },
+   "79": {
+      "name": "finthechat",
+      "description": "F"
+   },
+   "80": {
+      "name": "cardsim",
+      "description": "A card gacha simulator."
+   },
+   "81": {
+      "name": "gui",
+      "description": "Set the gui of the visual novel."
+   },
+   "82": {
+      "name": "scene",
+      "description": "Set the visual novel scene."
+   },
+   "83": {
+      "name": "eat",
+      "description": "Send an eating GIF."
+   },
+   "84": {
+      "name": "dance",
+      "description": "Send a dancing GIF."
+   },
+   "85": {
+      "name": "item",
+      "description": "Give yourself an item."
+   },
+   "86": {
+      "name": "send_mail",
+      "description": "Send mails for dev."
+   },
+   "87": {
+      "name": "work",
+      "description": "Work for Monocoins."
+   },
+   "88": {
+      "name": "set_work_cooldown",
+      "description": "Set a user's work cooldown."
+   }
+}
