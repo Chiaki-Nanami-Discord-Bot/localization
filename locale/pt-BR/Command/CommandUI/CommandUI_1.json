@@ -1,15 +1,15 @@
 {
-   "CommandName_Title": "",
-   "CommandPrefixes_Header": "",
-   "Link_Header": "",
-   "AboutMe_ButtonLabel": "",
-   "HowToUseMe_ButtonLabel": "",
-   "Invitation_ButtonLabel": "",
-   "PrivacyPolicy_ButtonLabel": "",
-   "SupportServer_ButtonLabel": "",
-   "TermsOfService_ButtonLabel": "",
-   "FrequentlyAskedQuestions_ButtonLabel": "",
-   "FandomWiki_ButtonLabel": "",
-   "SelectLanguage_Langage_MenuPlaceholder": "",
-   "SelectCommandCategory_CommandCategory_MenuPlaceholder": ""
+   "CommandName_Title": "Ajuda",
+   "CommandPrefixes_Header": "Prefixos de comando",
+   "Link_Header": "Links rápidos",
+   "AboutMe_ButtonLabel": "Sobre mim",
+   "HowToUseMe_ButtonLabel": "Como me usar",
+   "Invitation_ButtonLabel": "Me convide",
+   "PrivacyPolicy_ButtonLabel": "Política de Privacidade",
+   "SupportServer_ButtonLabel": "Nosso server!",
+   "TermsOfService_ButtonLabel": "Termos de Segurança",
+   "FrequentlyAskedQuestions_ButtonLabel": "Perguntas Feitas Frequentemente",
+   "FandomWiki_ButtonLabel": "Fandom Wiki",
+   "SelectLanguage_Langage_MenuPlaceholder": "Selecione seu idioma",
+   "SelectCommandCategory_CommandCategory_MenuPlaceholder": "Selecione uma categoria de comando para vizualizar"
 }
