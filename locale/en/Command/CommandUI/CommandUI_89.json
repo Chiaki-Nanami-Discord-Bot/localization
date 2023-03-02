@@ -1,0 +1,5 @@
+{
+   "title": "Coffin Dance",
+   "alert_not_in_voice_channel": "Please join a voice channel first.",
+   "alert_not_in_guild": "Please use this command in a server."
+}

@@ -5,5 +5,6 @@
    "Indicator_Japanese": "Japanese",
    "Indicator_English": "English",
    "Placeholder_SelectVoice": "Select a voice audio to play.",
-   "Title": "Chiaki Nanami Voice Audio"
+   "Title": "Chiaki Nanami Voice Audio",
+   "request_use_in_server": "Please use this command in a server."
 }

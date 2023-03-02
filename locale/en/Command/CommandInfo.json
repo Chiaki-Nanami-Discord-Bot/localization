@@ -350,5 +350,13 @@
    "88": {
       "name": "set_work_cooldown",
       "description": "Set a user's work cooldown."
+   },
+   "89": {
+      "name": "coffin_dance",
+      "description": "Listen to the Coffin Dance Music."
+   },
+   "90": {
+      "name": "shard",
+      "description": "Check the shard of this Chiaki Nanami."
    }
 }
